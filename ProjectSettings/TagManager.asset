@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - torch
+  - ghost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - BackgroundLayer
+  - Enemies
+  - DeadEnemies
+  - Spikes
+  - Crumble
+  - Torch
+  - Ghost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3875338981
+    locked: 0
+  - name: Blur Background
+    uniqueID: 4177260925
+    locked: 0
+  - name: background tilemap
+    uniqueID: 1927911485
+    locked: 0
+  - name: DeadEnemies
+    uniqueID: 3464283069
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 2974588463
+    locked: 0
+  - name: Foreground
+    uniqueID: 3186173079
+    locked: 0
+  - name: blur foreground
+    uniqueID: 2043572151
+    locked: 0
+  - name: Torch
+    uniqueID: 500185229
+    locked: 0

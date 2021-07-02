@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 173fbb5c325465745898815d12d1afb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8498703107324428600
+    second: Mossy - MossyHills_6
+  - first:
+      213: 7394200986258851590
+    second: Mossy - MossyHills_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mossy - MossyHills_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1645
+        width: 262
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 82, y: 159}
+        - {x: -115, y: 159}
+        - {x: -129, y: 135}
+        - {x: -129, y: -62}
+        - {x: -115, y: -97}
+        - {x: -24, y: -158}
+        - {x: 20, y: -158}
+        - {x: 90, y: -124}
+        - {x: 124, y: -94}
+        - {x: 128, y: -78}
+        - {x: 128, y: 131}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652e82ddf7887c030800000000000000
+      internalID: 3514928116938629718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - MossyHills_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1102
+        width: 386
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -130, y: 108}
+        - {x: -144, y: -64}
+        - {x: -136, y: -115}
+        - {x: -75, y: -157}
+        - {x: 84, y: -159}
+        - {x: 148, y: -105}
+        - {x: 144, y: -61}
+        - {x: 140, y: -21}
+        - {x: 125, y: 106}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5d42653d67f9f70800000000000000
+      internalID: 9196199614169273764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - MossyHills_2
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1517
+        width: 1174
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 355, y: 21.5}
+        - {x: 287, y: 74.5}
+        - {x: 222, y: 114.5}
+        - {x: 183, y: 132.5}
+        - {x: 152, y: 143.5}
+        - {x: 121, y: 158.5}
+        - {x: 93, y: 160.5}
+        - {x: 80, y: 164.5}
+        - {x: 62, y: 162.5}
+        - {x: -33, y: 167.5}
+        - {x: -126, y: 159.5}
+        - {x: -226, y: 137.5}
+        - {x: -322, y: 87.5}
+        - {x: -351, y: 63.5}
+        - {x: -355, y: 71.5}
+        - {x: -376, y: 69.5}
+        - {x: -375, y: 68.5}
+        - {x: -374, y: 60.5}
+        - {x: -375, y: 67.5}
+        - {x: -355, y: 62.5}
+        - {x: -350, y: 64.5}
+        - {x: -363, y: 59.5}
+        - {x: -423, y: -0.5}
+        - {x: -477, y: -75.5}
+        - {x: -559, y: -210.5}
+        - {x: -567, y: -196.5}
+        - {x: -551, y: -204.5}
+        - {x: -551, y: -203.5}
+        - {x: -553, y: -204.5}
+        - {x: -563, y: -210.5}
+        - {x: -563, y: -232.5}
+        - {x: -531, y: -243.5}
+        - {x: 580, y: -243.5}
+        - {x: 501, y: -139.5}
+        - {x: 439, y: -57.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fb900265b1288c0800000000000000
+      internalID: -3998603462432932004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - MossyHills_3
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 567
+        width: 1256
+        height: 869
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d679393c097b33f90800000000000000
+      internalID: -6975029565482363027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - MossyHills_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 628
+        width: 306
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09acb64cbee0aeeb0800000000000000
+      internalID: -4689919656177448304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - MossyHills_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 82
+        width: 1335
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 640.5, y: -163.5}
+        - {x: 653.5, y: -138.5}
+        - {x: 605.5, y: -102.5}
+        - {x: 137.5, y: 152.5}
+        - {x: 100.5, y: 174.5}
+        - {x: 66.5, y: 174.5}
+        - {x: -155.5, y: 170.5}
+        - {x: -194.5, y: 157.5}
+        - {x: -234.5, y: 128.5}
+        - {x: -496.5, y: -41.5}
+        - {x: -609.5, y: -101.5}
+        - {x: -653.5, y: -147.5}
+        - {x: -595.5, y: -222.5}
+        - {x: -477.5, y: -226.5}
+        - {x: 640.5, y: -225.5}
+        - {x: 662.5, y: -168.5}
+        - {x: 654.5, y: -164.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac584177fe1cc8b0800000000000000
+      internalID: -5130691827375514457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - MossyHills_6
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 33
+        width: 542
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce3b6c4d8a8e0a80800000000000000
+      internalID: -8498703107324428600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - MossyHills_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 84
+        width: 584
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 206, y: 164.5}
+        - {x: 151, y: 127.5}
+        - {x: -101, y: -54.5}
+        - {x: -226, y: -124.5}
+        - {x: -277, y: -158.5}
+        - {x: -205, y: -224.5}
+        - {x: 292, y: -221.5}
+        - {x: 292, y: -64.5}
+        - {x: 292, y: 164.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6074dcfee9a7d9660800000000000000
+      internalID: 7394200986258851590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

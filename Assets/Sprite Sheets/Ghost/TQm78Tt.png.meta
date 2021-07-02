@@ -1,0 +1,2420 @@
+fileFormatVersion: 2
+guid: 060eb6b8f339b8a49ad523e241e3e8f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1498432221842096312
+    second: TQm78Tt_0
+  - first:
+      213: -7423215051097800643
+    second: TQm78Tt_1
+  - first:
+      213: 7452672160802544559
+    second: TQm78Tt_2
+  - first:
+      213: 1114503606732381150
+    second: TQm78Tt_3
+  - first:
+      213: -6990847463745111658
+    second: TQm78Tt_4
+  - first:
+      213: 7631651757926785854
+    second: TQm78Tt_5
+  - first:
+      213: 7901710703175892161
+    second: TQm78Tt_6
+  - first:
+      213: 3589948614546648074
+    second: TQm78Tt_7
+  - first:
+      213: 2385710034308383724
+    second: TQm78Tt_8
+  - first:
+      213: 8733528511396605696
+    second: TQm78Tt_9
+  - first:
+      213: -8579916863087256072
+    second: TQm78Tt_10
+  - first:
+      213: -5238285902967472412
+    second: TQm78Tt_11
+  - first:
+      213: 3579830980557295988
+    second: TQm78Tt_12
+  - first:
+      213: 2350119689040502873
+    second: TQm78Tt_13
+  - first:
+      213: 4205444886368173173
+    second: TQm78Tt_14
+  - first:
+      213: -1927291503957470921
+    second: TQm78Tt_15
+  - first:
+      213: 5888833941499203647
+    second: TQm78Tt_16
+  - first:
+      213: 8766312876670807069
+    second: TQm78Tt_17
+  - first:
+      213: -7542939289100091348
+    second: TQm78Tt_18
+  - first:
+      213: -9130751868341347233
+    second: TQm78Tt_19
+  - first:
+      213: -7330735362862889459
+    second: TQm78Tt_20
+  - first:
+      213: -2552537013860776885
+    second: TQm78Tt_21
+  - first:
+      213: 7258276507447096388
+    second: TQm78Tt_22
+  - first:
+      213: 1249564026715861818
+    second: TQm78Tt_23
+  - first:
+      213: 5494952461516107970
+    second: TQm78Tt_24
+  - first:
+      213: -16623967793762052
+    second: TQm78Tt_25
+  - first:
+      213: 3866034036697999671
+    second: TQm78Tt_26
+  - first:
+      213: -4977569609410871392
+    second: TQm78Tt_27
+  - first:
+      213: -9216037560983218002
+    second: TQm78Tt_28
+  - first:
+      213: 1622455530996169477
+    second: TQm78Tt_29
+  - first:
+      213: -8769816332772327512
+    second: TQm78Tt_30
+  - first:
+      213: 7409999286069462554
+    second: TQm78Tt_31
+  - first:
+      213: 7369068677658739830
+    second: TQm78Tt_32
+  - first:
+      213: 4793057701721572710
+    second: TQm78Tt_33
+  - first:
+      213: 2987127009000695900
+    second: TQm78Tt_34
+  - first:
+      213: 3217006398328727274
+    second: TQm78Tt_35
+  - first:
+      213: 3096485785395150335
+    second: TQm78Tt_36
+  - first:
+      213: -7760905101115963647
+    second: TQm78Tt_37
+  - first:
+      213: -4011416969403243721
+    second: TQm78Tt_38
+  - first:
+      213: 2144312307317024550
+    second: TQm78Tt_39
+  - first:
+      213: 3163294739870920780
+    second: TQm78Tt_40
+  - first:
+      213: -5116641628267153250
+    second: TQm78Tt_41
+  - first:
+      213: -2124054142689377010
+    second: TQm78Tt_42
+  - first:
+      213: 6176121468229921765
+    second: TQm78Tt_43
+  - first:
+      213: 7443722262108096744
+    second: TQm78Tt_44
+  - first:
+      213: -4979265156267532601
+    second: TQm78Tt_45
+  - first:
+      213: -7537598724919393742
+    second: TQm78Tt_46
+  - first:
+      213: 2243315648041579842
+    second: TQm78Tt_47
+  - first:
+      213: 1856034378866824248
+    second: TQm78Tt_48
+  - first:
+      213: 7657456761434383132
+    second: TQm78Tt_49
+  - first:
+      213: 5160103193451503453
+    second: TQm78Tt_50
+  - first:
+      213: 1087336358858470200
+    second: TQm78Tt_51
+  - first:
+      213: -6044286748782127778
+    second: TQm78Tt_52
+  - first:
+      213: -5391449163225784981
+    second: TQm78Tt_53
+  - first:
+      213: 4069275227245099977
+    second: TQm78Tt_54
+  - first:
+      213: -7245497568271552129
+    second: TQm78Tt_55
+  - first:
+      213: -1527847996817510723
+    second: TQm78Tt_56
+  - first:
+      213: -2403293554641201863
+    second: TQm78Tt_57
+  - first:
+      213: -3584888730020977776
+    second: TQm78Tt_58
+  - first:
+      213: 2075596007246346683
+    second: TQm78Tt_59
+  - first:
+      213: 4689594135581590686
+    second: TQm78Tt_60
+  - first:
+      213: -4737787574289666426
+    second: TQm78Tt_61
+  - first:
+      213: -8028148297602135390
+    second: TQm78Tt_62
+  - first:
+      213: -2785185102768924066
+    second: TQm78Tt_63
+  - first:
+      213: 1014602783604906035
+    second: TQm78Tt_64
+  - first:
+      213: -1853693456394552970
+    second: TQm78Tt_65
+  - first:
+      213: -8373509057123698443
+    second: TQm78Tt_66
+  - first:
+      213: 5484066791701421467
+    second: TQm78Tt_67
+  - first:
+      213: 8063844611097188644
+    second: TQm78Tt_68
+  - first:
+      213: -8833757084549787805
+    second: TQm78Tt_69
+  - first:
+      213: 2158769717661581957
+    second: TQm78Tt_70
+  - first:
+      213: -5416594555508383616
+    second: TQm78Tt_71
+  - first:
+      213: 3059944120494897494
+    second: TQm78Tt_72
+  - first:
+      213: 5429672867669371902
+    second: TQm78Tt_73
+  - first:
+      213: -9075605228631743349
+    second: TQm78Tt_74
+  - first:
+      213: 3962133135868941370
+    second: TQm78Tt_75
+  - first:
+      213: -660693579725003905
+    second: TQm78Tt_76
+  - first:
+      213: 9219453612262472285
+    second: TQm78Tt_77
+  - first:
+      213: 8068718132350464343
+    second: TQm78Tt_78
+  - first:
+      213: -3892106443200993849
+    second: TQm78Tt_79
+  - first:
+      213: -8281297467840484681
+    second: TQm78Tt_80
+  - first:
+      213: -2489579911392084001
+    second: TQm78Tt_81
+  - first:
+      213: 220134146496609830
+    second: TQm78Tt_82
+  - first:
+      213: -8725598204504870692
+    second: TQm78Tt_83
+  - first:
+      213: 93401247595110626
+    second: TQm78Tt_84
+  - first:
+      213: 2822410428738031175
+    second: TQm78Tt_85
+  - first:
+      213: -3675459768012977142
+    second: TQm78Tt_86
+  - first:
+      213: 1353879442468127384
+    second: TQm78Tt_87
+  - first:
+      213: 4904165007892641664
+    second: TQm78Tt_88
+  - first:
+      213: -1900091525433002428
+    second: TQm78Tt_89
+  - first:
+      213: 2494691162107485203
+    second: TQm78Tt_90
+  - first:
+      213: -2572842198981983467
+    second: TQm78Tt_91
+  - first:
+      213: 1883176289057908830
+    second: TQm78Tt_92
+  - first:
+      213: -5746308338147329767
+    second: TQm78Tt_93
+  - first:
+      213: -8627644535764825533
+    second: TQm78Tt_94
+  - first:
+      213: 7570409592153071582
+    second: TQm78Tt_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TQm78Tt_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 336
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f3a1155df743be0800000000000000
+      internalID: -1498432221842096312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 337
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d308bfbad317bf890800000000000000
+      internalID: -7423215051097800643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 338
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab141428d53d6760800000000000000
+      internalID: 7452672160802544559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 336
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbdc2c1023877f00800000000000000
+      internalID: 1114503606732381150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 337
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699388455458bfe90800000000000000
+      internalID: -6990847463745111658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 338
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3326b0f6d219e960800000000000000
+      internalID: 7631651757926785854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 336
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc73bcf40488ad60800000000000000
+      internalID: 7901710703175892161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 337
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c65fb9e3f02d130800000000000000
+      internalID: 3589948614546648074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 338
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3490cd2aebb1120800000000000000
+      internalID: 2385710034308383724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 336
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f6a8da8e9b33970800000000000000
+      internalID: 8733528511396605696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 337
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fddc4542130ee880800000000000000
+      internalID: -8579916863087256072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 338
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeffa199bedd47b0800000000000000
+      internalID: -5238285902967472412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 290
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4715e006f4d1ea130800000000000000
+      internalID: 3579830980557295988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 292
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95029ecd76d4d9020800000000000000
+      internalID: 2350119689040502873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 294
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c357eb7ddbc5a30800000000000000
+      internalID: 4205444886368173173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 290
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7319cff9692e045e0800000000000000
+      internalID: -1927291503957470921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 292
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30d258f44759b150800000000000000
+      internalID: 5888833941499203647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 294
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c65eb8d1338a970800000000000000
+      internalID: 8766312876670807069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 290
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c200ad64ea8125790800000000000000
+      internalID: -7542939289100091348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 292
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c97437d8d094180800000000000000
+      internalID: -9130751868341347233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 294
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06c922070ff34a90800000000000000
+      internalID: -7330735362862889459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 290
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44cacc1c11939cd0800000000000000
+      internalID: -2552537013860776885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 292
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44472fb07049ab460800000000000000
+      internalID: 7258276507447096388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_23
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 294
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a337180acd7575110800000000000000
+      internalID: 1249564026715861818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 242
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c07356762ef14c40800000000000000
+      internalID: 5494952461516107970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 244
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf035e0e690f4cff0800000000000000
+      internalID: -16623967793762052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 246
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73924f62979e6a530800000000000000
+      internalID: 3866034036697999671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 242
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aff84200de1ceab0800000000000000
+      internalID: -4977569609410871392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 244
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea810fcbaae0a1080800000000000000
+      internalID: -9216037560983218002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 246
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bf4e495be148610800000000000000
+      internalID: 1622455530996169477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 242
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afbfa3828a5b4680800000000000000
+      internalID: -8769816332772327512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 244
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a168110471b95d660800000000000000
+      internalID: 7409999286069462554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_32
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 246
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6748e495be0344660800000000000000
+      internalID: 7369068677658739830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_33
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 242
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6658013c59c548240800000000000000
+      internalID: 4793057701721572710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_34
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 244
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58267e2038647920800000000000000
+      internalID: 2987127009000695900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_35
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 246
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6ea8c564a15ac20800000000000000
+      internalID: 3217006398328727274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 194
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd368a7a6de8fa20800000000000000
+      internalID: 3096485785395150335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 195
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1074778fde9bb4490800000000000000
+      internalID: -7760905101115963647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 196
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733eebc05859458c0800000000000000
+      internalID: -4011416969403243721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_39
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 194
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6272125bea022cd10800000000000000
+      internalID: 2144312307317024550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_40
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 195
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c403ed95ec746eb20800000000000000
+      internalID: 3163294739870920780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_41
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 196
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98f8285c890ef8b0800000000000000
+      internalID: -5116641628267153250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_42
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 194
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e058d4dc208d582e0800000000000000
+      internalID: -2124054142689377010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_43
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 195
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb228bb0cdf5b550800000000000000
+      internalID: 6176121468229921765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 196
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8ce9775f96d4760800000000000000
+      internalID: 7443722262108096744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_45
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 194
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce913eb8b816eab0800000000000000
+      internalID: -4979265156267532601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_46
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 195
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2320eb545e1156790800000000000000
+      internalID: -7537598724919393742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_47
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 196
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245f79042bbd12f10800000000000000
+      internalID: 2243315648041579842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 144
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83415431f65f1c910800000000000000
+      internalID: 1856034378866824248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 145
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13a5348a50c44a60800000000000000
+      internalID: 7657456761434383132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 146
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f190ad38e5c9740800000000000000
+      internalID: 5160103193451503453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 144
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833302d48aef61f00800000000000000
+      internalID: 1087336358858470200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_52
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 145
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e559d3ad9316e1ca0800000000000000
+      internalID: -6044286748782127778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 146
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d99591d89bd25b0800000000000000
+      internalID: -5391449163225784981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_54
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 144
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbbd3d5248f87830800000000000000
+      internalID: 4069275227245099977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_55
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 145
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71b7369952d27b90800000000000000
+      internalID: -7245497568271552129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 146
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe66ee775efbcae0800000000000000
+      internalID: -1527847996817510723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_57
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 144
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93510a8ce39c5aed0800000000000000
+      internalID: -2403293554641201863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_58
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 145
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0936ccf81baef3ec0800000000000000
+      internalID: -3584888730020977776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_59
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 146
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb93325529ffdcc10800000000000000
+      internalID: 2075596007246346683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9488101509c41140800000000000000
+      internalID: 4689594135581590686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 100
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e64359d4fff3eb0800000000000000
+      internalID: -4737787574289666426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_62
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 102
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa844588a9469090800000000000000
+      internalID: -8028148297602135390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 98
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a9fb3d7e80959d0800000000000000
+      internalID: -2785185102768924066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 98
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33894e82bd7941e00800000000000000
+      internalID: 1014602783604906035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 102
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679f2296f9b5646e0800000000000000
+      internalID: -1853693456394552970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_66
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 98
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f830a690e15bcb80800000000000000
+      internalID: -8373509057123698443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_67
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 100
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d11e3f0b15b1c40800000000000000
+      internalID: 5484066791701421467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_68
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 102
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429556023f788ef60800000000000000
+      internalID: 8063844611097188644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 98
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fc15f1cb0386580800000000000000
+      internalID: -8833757084549787805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_70
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 100
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582c61dde9d75fd10800000000000000
+      internalID: 2158769717661581957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_71
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 102
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080ab9a33f364d4b0800000000000000
+      internalID: -5416594555508383616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659b4ae17fa177a20800000000000000
+      internalID: 3059944120494897494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_73
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 52
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb620c94b21a5b40800000000000000
+      internalID: 5429672867669371902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 51
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b842ab11129fc0280800000000000000
+      internalID: -9075605228631743349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_75
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 46
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34d54448135cf630800000000000000
+      internalID: 3962133135868941370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_76
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 52
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f732c1390beb4d6f0800000000000000
+      internalID: -660693579725003905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_77
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 51
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ab81ea63412ff70800000000000000
+      internalID: 9219453612262472285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_78
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 50
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751b0873468d9ff60800000000000000
+      internalID: 8068718132350464343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_79
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 52
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5eef8afc57cf9c0800000000000000
+      internalID: -3892106443200993849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_80
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 54
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baa60644dbe21d80800000000000000
+      internalID: -8281297467840484681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_81
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 50
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfb68dc24c337dd0800000000000000
+      internalID: -2489579911392084001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_82
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 52
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e3dd407d21e0300800000000000000
+      internalID: 220134146496609830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_83
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 54
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd073b7c9a278e680800000000000000
+      internalID: -8725598204504870692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e02c7890f3db4100800000000000000
+      internalID: 93401247595110626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_85
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ec947c4573b2720800000000000000
+      internalID: 2822410428738031175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_86
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cc85d70d42efcc0800000000000000
+      internalID: -3675459768012977142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_87
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89244050e22f9c210800000000000000
+      internalID: 1353879442468127384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_88
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087775f57181f0440800000000000000
+      internalID: 4904165007892641664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_89
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446f5d123d481a5e0800000000000000
+      internalID: -1900091525433002428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_90
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c19bdf46cee9220800000000000000
+      internalID: 2494691162107485203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_91
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5134b8ac6ad6b4cd0800000000000000
+      internalID: -2572842198981983467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_92
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 4
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e582cbe7bd2622a10800000000000000
+      internalID: 1883176289057908830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_93
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919fcdef2030140b0800000000000000
+      internalID: -5746308338147329767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_94
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 3
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ac5658103744880800000000000000
+      internalID: -8627644535764825533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TQm78Tt_95
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 4
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf5e701a6f7f0960800000000000000
+      internalID: 7570409592153071582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
